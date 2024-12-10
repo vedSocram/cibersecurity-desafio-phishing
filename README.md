@@ -17,7 +17,9 @@
 - URL para clone: http://www.github.com/login
 
 ### Resutados
+- Página de Login
 ![Alt text](./login.png "Optional title")
+- Dados capturados
 ![Alt text](./senha.png "Optional title")
 
 ### Alterando o site clonado
